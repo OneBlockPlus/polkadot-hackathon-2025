@@ -48,7 +48,7 @@ Have a polymarket clone version of the Prediction Market Platform.
 ## Architect
 * Diagram of architect for the project
 
-[![structure](./flow.jpg)]
+[![structure](./flow.png)]
 
 * Description for each components
 
